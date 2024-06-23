@@ -1,6 +1,6 @@
 - 👋 Hola, Soy César Tejada.
 - 👀 Actualmente, busco empleo como desarrollador web Full Stack.
-- 🌱 En estos momentos, estoy aprendiendo, prácticando y creando proyectos con nuevas tecnologías: Next.js 14, TypeScript 5 y Laravel 11, de forma autodidacta.
+- 🌱 Continuo, aprendiendo, prácticando y creando proyectos con nuevas tecnologías: Next.js 14, TypeScript 5 y Laravel 11, de forma autodidacta.
 - 📫 Cómo comunicarse conmigo... En breve publicaré mi dominio.
 - 😄 Pronombres: él.
 - ⚡ Dato curioso: ¿A alguien le gustaría jugar una partida de ajedrez?

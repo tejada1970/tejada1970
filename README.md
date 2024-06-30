@@ -1,7 +1,7 @@
 - 👋 Hola, Soy César.
 - 👀 Actualmente, busco empleo como desarrollador web Full Stack.
 - 🌱 Continuo aprendiendo, prácticando y creando proyectos con nuevas tecnologías: Next.js 14, TypeScript 5 y Laravel 11, de forma autodidacta.
-- 📫 Puedes comunicarte conmigo a través de mi correo y en breve publicaré mi dominio. Si tienes alguna duda sobre como descargar un repositorio o como configurar el entorno de ejecución local para ver su funcionamiento, puedes enviarme un email y me pondré en contacto contigo. ¡Estaré encantado de ayudarte!
+- 📫 Puedes comunicarte conmigo a través de mi correo cesartejada353@gmail.com y en breve publicaré mi dominio. Si tienes alguna duda sobre como descargar un repositorio o como configurar el entorno de ejecución local para ver su funcionamiento, puedes enviarme un email y me pondré en contacto contigo. ¡Estaré encantado de ayudarte!
 - 😄 Pronombres: él.
 - ⚡ Dato curioso: ¿A alguien le gustaría jugar una partida de ajedrez?
 
